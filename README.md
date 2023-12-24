@@ -61,58 +61,52 @@
 16. **Mercer Theorem**
     - Understanding Mercer Theorem
 
-17. **Review for Exam (Tue/Thu)**
-    - Summary of Covered Topics
-
-18. **Exam – I (Tue, Oct 15, 5-7:20pm)**
-    - No Lecture on Thu
-
-19. **Support Vector Machines**
+17. **Support Vector Machines**
     - Introduction to SVM
     - Linear Programming for SVM
 
-20. **Lagrangian Duality and KKT Conditions**
+18. **Lagrangian Duality and KKT Conditions**
     - Lagrangian Duality
     - Karush-Kuhn-Tucker Conditions
 
-21. **Dual SVM**
+19. **Dual SVM**
     - Understanding Dual SVM
 
-22. **Dimensionality Reduction**
+20. **Dimensionality Reduction**
     - Techniques for Dimensionality Reduction
 
-23. **Principal Component Analysis (PCA)**
+21. **Principal Component Analysis (PCA)**
     - Basics of PCA
     - Applications
 
-24. **Boosting and AdaBoost**
+22. **Boosting and AdaBoost**
     - Introduction to Boosting
     - AdaBoost Algorithm
 
-25. **Bagging and Random Forest**
+23. **Bagging and Random Forest**
     - Bagging Techniques
     - Random Forest Algorithm
 
-26. **K-means Clustering**
+24. **K-means Clustering**
     - Basics of K-means Clustering
 
-27. **Gaussian Mixture Models (GMM)**
+25. **Gaussian Mixture Models (GMM)**
     - Introduction to GMM
     - EM Algorithm for GMM
 
-28. **Kernel Density Estimation**
+26. **Kernel Density Estimation**
     - Understanding Kernel Density Estimation
 
-29. **Hidden Markov Models (HMM)**
+27. **Hidden Markov Models (HMM)**
     - Introduction to HMM
     - Viterbi and Baum-Welch Algorithms
 
-30. **Reinforcement Learning**
+28. **Reinforcement Learning**
     - Basic Concepts of Reinforcement Learning
 
-31. **Multi-Armed Bandits**
+29. **Multi-Armed Bandits**
     - Introduction to Multi-Armed Bandits
 
-32. **Markov Decision Processes**
+30. **Markov Decision Processes**
     - Basics of Markov Decision Processes
 
